@@ -8,9 +8,9 @@ A Steam Deck Plugin (for Decky Loader) to mitigate latency on the Critically Acc
 
 ### Installation
 
-**(The following steps are to install the prerelease version of this plugin. The end state will be to install via Decky Loader Store).** 
+- Install directly from Decky Store or install from zip - see the instructions below.
 
-- Download the zip file in the releases page. Note this is a prerelease version. 
+- Download the zip file in the releases page.
 - In Decky Loader, enable Developer mode by going into Settings -> General -> Developer Mode
 - In Developer select install from Zip. Navigate to the location of the zip file and install
 

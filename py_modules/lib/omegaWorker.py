@@ -15,7 +15,7 @@ import configparser
 from functools import partial
 
 #global version var
-quayver = '0.3.0'
+quayver = '0.4.0'
 
 #fix for subprocess issue from Decky 3.1.1
 # Using partial to avoid changing lines several times

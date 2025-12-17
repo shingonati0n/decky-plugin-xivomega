@@ -108,7 +108,6 @@ logger = logging.LoggerAdapter(_logger, {"tag": "py"})
 
 #fix for subprocess issue in latest Decky 3.1.1 update - using fix from Alex4386 (Decky Terminal) - Thanks man!
 
-
 #get subnet mask and subnet
 def cidr_to_netmask(cidr):
 	network, net_bits = cidr.split('/')
